@@ -3,9 +3,10 @@
 //Author: Josh Chen
 //Change Log:
 //  2013-11-30: Initial version
+//	2013-12-07: Change CDS limit from 700 to 500
 
 //Define Limit Value
-#define CDS_DARK_LIMIT  700
+#define CDS_DARK_LIMIT  500
 #define RELAY_TIMEOUT  30
 
 //Pin Assignment
